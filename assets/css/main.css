@@ -777,6 +777,12 @@ section,
   border: 2px solid var(--accent-color);
 }
 
+.date {
+  float: right;
+  font-weight: normal;
+  color: #555; /* Optional styling */
+}
+
 /*--------------------------------------------------------------
 # Portfolio Section
 --------------------------------------------------------------*/
